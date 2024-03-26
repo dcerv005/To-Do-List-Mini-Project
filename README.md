@@ -1,0 +1,3 @@
+This application is used to add tasks into a list of tasks and gives the user the abilitiy to change their tasks from being incomplete, to complete. Once you start the application you will be shown a menu. In this menu you will see a set of options and a brief description of what they will accomplish. If you pick '1' for example you will be able to add a task to your to-do list. Once you do press your option you will be prompted a set of questions that will lead you to accomplish the goal described next to the option in the menu. Once youre done with adding, removing, and updating your list you can hit option '5' which will exit out of the application. 
+
+**Bonus features: Coming soon**
